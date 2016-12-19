@@ -3,8 +3,8 @@
 Template Name: Large Backdrop
 */
 get_header(); ?>
-  <div class="backdrop backdrop-large"></div>
-	<div class="page page-large"><?php
+
+<?php
 
 	if( have_posts() ):
 
